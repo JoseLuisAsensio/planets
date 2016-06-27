@@ -2,4 +2,4 @@ probando git, archivo para comparar 1
 
 Cambios en el fichero v2
 
-Mas
+mas cambios
