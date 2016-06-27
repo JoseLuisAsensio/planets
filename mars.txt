@@ -1,4 +1,6 @@
-probando git, archivo para comparar 1
+PROBANDO MAS COSAS
+
+	probando git, archivo para comparar 1
 
 Cambios en el fichero v2
 
